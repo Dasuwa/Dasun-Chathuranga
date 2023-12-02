@@ -19,19 +19,19 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Hardwork & Teamwork Can Make Better Deveeloper</h2></summary>
+    <summary><h2 style="display: inline-block">Full-stack Software Developer</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **SQL, Java, PHP, Springboot, Nodejs, MongoDB, MySQL**
+- 🔭 I’m currently working on **SQL, Java, PHP, Springboot, Nodejs, MongoDB, MySQL and more**
 
 - 🌱 I’m currently learning **Full-stack Software Developing.**
 
-- ☁️ I'm interesting Software Applications Development. So,I'm learning **Full-stack**
+- ☁️ I'm interesting Software Applications Development. So,I'm learning **Full-stack Development**
 
-- 📝 I regularly write articles on [Medium](https://medium.com)
+- 📝 You Can Directly Contact me on [Telegram](https://t.me/Dasuwaprofa)
 
 - 💬 Ask me about **SQL, Java, PHP, nodejs, mongoDB**
 
@@ -65,9 +65,6 @@
 
 <p align="center">
 <p align="center">
- <a href="">
- <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
 
  <a href="https://www.linkedin.com/in/dasuwaprofa">
  <img border="0" alt="Dasun Chathuranga's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
@@ -82,14 +79,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!-----Working Tools Starts------>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Working Tools</b>
-<p align="left">
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,c,discord,docker,figma,firebase,github,html,idea,java,js,linux,materialui,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
-  </a>
-  <!-----Working Tools Ends------>
-</p>
-<br>
-<p align=""> <img src="https://komarev.com/ghpvc/?username=AdithyaBandara&label=Profile%20views&color=0e75b6&style=flat" alt="AdithyaBandara" /> </p>
