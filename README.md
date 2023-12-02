@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Software Applications Developing.**
 
-- 📨Contact me for **Software Development Projects**
+### 📨Contact me for **Software Development Projects and More.**
 
 - 💁 You Can Directly Contact me on [Telegram.](https://t.me/Dasuwaprofa)
 
