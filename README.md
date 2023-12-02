@@ -35,7 +35,7 @@
 
 - 💬 Contact me about **Software Development Projects**
 
-- 📫 Feel free to reach me out **dasuwaprofa.lk@gmail.com**
+- 📫 Feel free to reach me out on [Gmail](dasuwaprofa.lk@gmail.com)
 
 ### 🌐 I'm currently Full-stack Software Engineer at DetaX Corporation 👻.
 
@@ -60,7 +60,7 @@
  br><br>
  
 <!-----Social Accounts Starts------>
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b><br>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me❤️</b><br>
 
 <p align="center">
 <p align="center">
@@ -68,6 +68,7 @@
  <a href="https://www.linkedin.com/in/dasuwaprofa">
  <img border="0" alt="Dasun Chathuranga's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
+
  <a href="mailto:dasuwaprofa.lk@gmail.com">
  <img border="0" alt="Dasun Chathuranga's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
