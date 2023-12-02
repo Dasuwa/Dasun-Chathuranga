@@ -25,19 +25,19 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **SQL, Java, PHP, Springboot, Nodejs, MongoDB, MySQL and more**
+- 🔭 I’m currently working on **SQL, Java, PHP, Springboot, Nodejs, MongoDB, MySQL and more.**
 
 - 🌱 I’m currently learning **Full-stack Software Developing.**
 
-- ☁️ I'm interesting Software Applications Development. So,I'm learning **App Developments**
+- ☁️ I'm interesting Software Applications Development.
 
-- 🌐 You Can Directly Contact me on [Telegram](https://t.me/Dasuwaprofa)
+- 🌐 You Can Directly Contact me on [Telegram.](https://t.me/Dasuwaprofa)
 
-- 💬 Contact me about **Software Development Projects**
+- 💬 Contact me for **Software Development Projects.**
 
-- 📫 Feel free to reach me out on [Gmail](dasuwaprofa.lk@gmail.com)
+- 📫 Feel free to reach me out on [Gmail.](dasuwaprofa.lk@gmail.com)
 
-### 🌐 I'm currently Full-stack Software Engineer at DetaX Corporation 👻.
+### I'm currently Full-stack Software Engineer at DetaX Corporation👻.
 
 <!--Intro end-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -60,7 +60,7 @@
  br><br>
  
 <!-----Social Accounts Starts------>
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me❤️</b><br>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me❤️</b>
 
 <p align="center">
 <p align="center">
