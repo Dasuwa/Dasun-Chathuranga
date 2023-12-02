@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Some Details About My </h2></summary>
+    <summary><h2 style="display: inline-block">Some Details About Me💆</h2></summary>
   </ul>
 </div>
 
@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **Software Applications Developing.**
 
-- 🔊 You Can Directly Contact me on [Telegram.](https://t.me/Dasuwaprofa)
+- 💁 You Can Directly Contact me on [Telegram.](https://t.me/Dasuwaprofa)
 
 - 🗃️ My Skills and More Details on [Channel.](https://t.me/DasuwaprofaOfficial)
 
@@ -73,6 +73,7 @@
  <a href="mailto:dasuwaprofa.lk@gmail.com">
  <img border="0" alt="Dasun Chathuranga's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
+
 
 <!-----Social Accounts Ends------>
 
