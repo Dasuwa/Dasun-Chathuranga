@@ -1,1 +1,95 @@
-# Dasun-Chathuranga
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Dasun Chathuranga </h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Hardwork & Teamwork Can Make Better Deveeloper</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **SQL, Java, PHP, Springboot, Nodejs, MongoDB, MySQL**
+
+- 🌱 I’m currently learning **Full-stack Software Developing.**
+
+- ☁️ I'm interesting Software Applications Development. So,I'm learning **Full-stack**
+
+- 📝 I regularly write articles on [Medium](https://medium.com)
+
+- 💬 Ask me about **SQL, Java, PHP, nodejs, mongoDB**
+
+- 📫 Feel free to reach me out **dasuwaprofa.lk@gmail.com**
+
+### I'm  an aspiring Full-stack Software Engineering currently pursuing a Higher National Diploma in Information Technology 🎓. I'm proficient in web languages and programming, as well as Full-stack Development.
+
+<!--Intro end-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<!----Github stats start------>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+<p align="center">
+<a href="https://github.com/Dasuwa/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dasuwa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+</a>
+<a href="https://github.com/Dasuwa">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dasuwa&theme=blueberry" width="380"/>
+</a>
+</p>
+<p align="center">
+    <a href="https://github.com/Dasuwa"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dasuwa&theme=tokyonight&hide_border=true"  width="520" alt="Dasuwa"/></a>
+<a href="https://github.com/Dasuwa"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dasuwa&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Dasuwa"/></a>
+</p>
+<br>
+<!----Github stats End------>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ 
+<!-----Social Accounts Starts------>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b><br>
+
+<p align="center">
+<p align="center">
+ <a href="">
+ <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+ </a>
+
+ <a href="https://www.linkedin.com/in/dasuwaprofa">
+ <img border="0" alt="Dasun Chathuranga's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+ </a>
+ <a href="mailto:dasuwaprofa.lk@gmail.com">
+ <img border="0" alt="Dasun Chathuranga's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ </a>
+</p>
+<br>
+<!-----Social Accounts Ends------>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<!-----Working Tools Starts------>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Working Tools</b>
+<p align="left">
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,c,discord,docker,figma,firebase,github,html,idea,java,js,linux,materialui,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,vscode&perline=14" />
+  </a>
+  <!-----Working Tools Ends------>
+</p>
+<br>
+<p align=""> <img src="https://komarev.com/ghpvc/?username=AdithyaBandara&label=Profile%20views&color=0e75b6&style=flat" alt="AdithyaBandara" /> </p>
