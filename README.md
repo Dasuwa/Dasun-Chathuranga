@@ -58,7 +58,7 @@
 </p>
 <br>
 <!----Github stats End------>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ br><br>
  
 <!-----Social Accounts Starts------>
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b><br>
