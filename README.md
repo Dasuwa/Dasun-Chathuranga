@@ -37,7 +37,9 @@
 
 - 📫 Contact me on [Gmail.](dasuwaprofa.lk@gmail.com)
 
-### I'm currently Full-stack Software Engineer at DetaX Corporation® and Freelancer.
+### I'm currently Full-stack Software Engineer at DetaX Corporation®.
+
+### I'm Part Time Freelancer at Fiverr.
 
 <!--Intro end-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -68,8 +70,7 @@
  <a href="https://www.linkedin.com/in/dasuwaprofa">
  <img border="0" alt="Dasun Chathuranga's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
-
-
+|| 
  <a href="mailto:dasuwaprofa.lk@gmail.com">
  <img border="0" alt="Dasun Chathuranga's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
