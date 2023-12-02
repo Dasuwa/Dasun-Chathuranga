@@ -69,8 +69,7 @@
 
  <a href="https://www.linkedin.com/in/dasuwaprofa">
  <img border="0" alt="Dasun Chathuranga's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
- </a>
-|| 
+
  <a href="mailto:dasuwaprofa.lk@gmail.com">
  <img border="0" alt="Dasun Chathuranga's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
