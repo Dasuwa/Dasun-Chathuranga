@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Some Details About Me🔊</h2></summary>
+    <summary><h2 style="display: inline-block">Some Details About My </h2></summary>
   </ul>
 </div>
 
@@ -57,7 +57,7 @@
 <a href="https://github.com/Dasuwa"></a>
 </p>
 <!----Github stats End------>
- br>
+ 
  
 <!-----Social Accounts Starts------>
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with Me❤️
@@ -68,6 +68,7 @@
  <a href="https://www.linkedin.com/in/dasuwaprofa">
  <img border="0" alt="Dasun Chathuranga's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
+
 
  <a href="mailto:dasuwaprofa.lk@gmail.com">
  <img border="0" alt="Dasun Chathuranga's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
