@@ -36,8 +36,6 @@
   </ul>
 </div>
 
-### Contact me for **Software Development Projects and More🤝**
-
 - 💁 You Can Directly Contact me on [Telegram.](https://t.me/Dasuwaprofa)
 
 - 🗃️ My Skills and More Details on [Channel.](https://t.me/DasuwaprofaOfficial)
@@ -45,9 +43,9 @@
 - 📫 Join our Dev Team || Drop a mail to me on [Gmail.](dasuwaprofa.lk@gmail.com)
 
 
-### I'm currently Full-stack Software Engineer at DetaX Corporation®.
+### ✍️I'm currently Full-stack Software Engineer at DetaX Corporation®.
 
-### I'm Part Time Freelancer at Fiverr.
+### ✍️I'm Part Time Freelancer at Fiverr.
 
 <!--Intro end-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
