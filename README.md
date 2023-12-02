@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Dasun Chathuranga </h1></summary>
+    <summary><h1 style="display: inline-block"> **Hi 👋, I'm Dasun Chathuranga** </h1></summary>
   </ul>
 </div>
 
@@ -29,15 +29,15 @@
 
 - 🌱 I’m currently learning **Full-stack Software Developing.**
 
-- ☁️ I'm interesting Software Applications Development. So,I'm learning **Full-stack Development**
+- ☁️ I'm interesting Software Applications Development. So,I'm learning **App Developments**
 
-- 📝 You Can Directly Contact me on [Telegram](https://t.me/Dasuwaprofa)
+- 🌐 You Can Directly Contact me on [Telegram](https://t.me/Dasuwaprofa)
 
-- 💬 Ask me about **SQL, Java, PHP, nodejs, mongoDB**
+- 💬 Contact me about **Software Development Projects**
 
 - 📫 Feel free to reach me out **dasuwaprofa.lk@gmail.com**
 
-### I'm  an aspiring Full-stack Software Engineering currently pursuing a Higher National Diploma in Information Technology 🎓. I'm proficient in web languages and programming, as well as Full-stack Development.
+### 🌐 I'm currently Full-stack Software Engineer at DetaX Corporation 👻.
 
 <!--Intro end-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -54,9 +54,8 @@
 </p>
 <p align="center">
     <a href="https://github.com/Dasuwa"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dasuwa&theme=tokyonight&hide_border=true"  width="520" alt="Dasuwa"/></a>
-<a href="https://github.com/Dasuwa"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dasuwa&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Dasuwa"/></a>
+<a href="https://github.com/Dasuwa"></a>
 </p>
-<br>
 <!----Github stats End------>
  br><br>
  
