@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Some Details About Me</h2></summary>
+    <summary><h2 style="display: inline-block">Some Details About Me🔊</h2></summary>
   </ul>
 </div>
 
@@ -29,9 +29,9 @@
 
 - 🌱 I’m currently learning **Software Applications Developing.**
 
-- 🌐 You Can Directly Contact me on [Telegram.](https://t.me/Dasuwaprofa)
+- 🔊 You Can Directly Contact me on [Telegram.](https://t.me/Dasuwaprofa)
 
-- ✅ My Skills and More Details on [Channel.](https://t.me/DasuwaprofaOfficial)
+- 🗃️ My Skills and More Details on [Channel.](https://t.me/DasuwaprofaOfficial)
 
 - 💬 Contact me for **Software Development Projects and More.**
 
@@ -57,7 +57,7 @@
 <a href="https://github.com/Dasuwa"></a>
 </p>
 <!----Github stats End------>
- br><br>
+ br>
  
 <!-----Social Accounts Starts------>
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with Me❤️
