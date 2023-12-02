@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Some Details About My Journey💆</h2></summary>
+    <summary><h1 style="display: inline-block">Some Details About My Journey💆</h1></summary>
   </ul>
 </div>
 
@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning **Software Applications Developing.**
 
 
-### Contact me for **Software Development Projects and More⬇️**
+### Contact me for **Software Development Projects and More🤝**
 
 - 💁 You Can Directly Contact me on [Telegram.](https://t.me/Dasuwaprofa)
 
