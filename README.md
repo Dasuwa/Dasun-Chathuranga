@@ -29,13 +29,13 @@
 
 - 🌱 I’m currently learning **Software Applications Developing.**
 
+- 📨Contact me for **Software Development Projects**
+
 - 💁 You Can Directly Contact me on [Telegram.](https://t.me/Dasuwaprofa)
 
 - 🗃️ My Skills and More Details on [Channel.](https://t.me/DasuwaprofaOfficial)
 
-- 💬 Contact me for **Software Development Projects and More.**
-
-- 📫 Contact me on [Gmail.](dasuwaprofa.lk@gmail.com)
+- 📫 Join our Dev Team || Drop a mail to me on [Gmail.](dasuwaprofa.lk@gmail.com)
 
 ### I'm currently Full-stack Software Engineer at DetaX Corporation®.
 
