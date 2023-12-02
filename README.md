@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> Hi 👋, I'm Dasun Chathuranga</h1></summary>
+    <summary><h1 style="display: inline-block"> Hi 👋, I'm Dasun Chathuranga😎</h1></summary>
   </ul>
 </div>
 
@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Full-stack Software Developer</h2></summary>
+    <summary><h2 style="display: inline-block">Some Details About Me</h2></summary>
   </ul>
 </div>
 
@@ -27,15 +27,15 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **SQL, Java, PHP, Springboot, Nodejs, MongoDB, MySQL and more.**
 
-- 🌱 I’m currently learning **Full-stack Software Developing.**
-
-- ☁️ I'm interesting Software Applications Development.
+- 🌱 I’m currently learning **Software Applications Developing.**
 
 - 🌐 You Can Directly Contact me on [Telegram.](https://t.me/Dasuwaprofa)
 
-- 💬 Contact me for **Software Development Projects.**
+- ✅ My Skills and More Details on [Channel.](https://t.me/DasuwaprofaOfficial)
 
-- 📫 Feel free to reach me out on [Gmail.](dasuwaprofa.lk@gmail.com)
+- 💬 Contact me for **Software Development Projects and More.**
+
+- 📫 Contact me on [Gmail.](dasuwaprofa.lk@gmail.com)
 
 ### I'm currently Full-stack Software Engineer at DetaX Corporation👻.
 
@@ -60,7 +60,7 @@
  br><br>
  
 <!-----Social Accounts Starts------>
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me❤️
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with Me❤️
 
 <p align="center">
 <p align="center">
@@ -72,7 +72,7 @@
  <a href="mailto:dasuwaprofa.lk@gmail.com">
  <img border="0" alt="Dasun Chathuranga's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
-</p>
+
 <!-----Social Accounts Ends------>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
