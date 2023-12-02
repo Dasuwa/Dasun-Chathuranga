@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Some Details About Me💆</h2></summary>
+    <summary><h2 style="display: inline-block">Some Details About My Journey💆</h2></summary>
   </ul>
 </div>
 
@@ -37,13 +37,13 @@
 
 - 📫 Contact me on [Gmail.](dasuwaprofa.lk@gmail.com)
 
-### I'm currently Full-stack Software Engineer at DetaX Corporation👻.
+### I'm currently Full-stack Software Engineer at DetaX Corporation® and Freelancer.
 
 <!--Intro end-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!----Github stats start------>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Github Stats📊</b>
 <p align="center">
 <a href="https://github.com/Dasuwa/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dasuwa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
