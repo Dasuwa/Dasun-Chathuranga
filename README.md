@@ -8,37 +8,6 @@
   </ul>
 </div>
 
-
-class GitHubIntro:
-    def __init__(self):
-        self.username = "Dasuwa"
-    
-    def introduce(self):
-        print("Welcome to my GitHub!")
-        self.animate_text("I'm a dynamic developer, always exploring new technologies and pushing boundaries.")
-        self.animate_code("Languages: Python, JavaScript, Java, etc.")
-        self.animate_code("Skills: Web Development, Machine Learning, Algorithms, etc.")
-        self.animate_code("Let's collaborate and create something amazing together!")
-    
-    def animate_text(self, text):
-        # Function to animate text
-        for char in text:
-            print(char, end='', flush=True)
-            sleep(0.05)  # Adjust speed as needed
-        print("\n")
-    
-    def animate_code(self, code):
-        # Function to animate code snippet
-        for line in code.split('\n'):
-            print(line)  # Display code line by line
-            sleep(0.2)  # Adjust speed as needed
-        print("\n")
-
-# Create an instance and introduce yourself
-intro = GitHubIntro()
-intro.introduce()
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -111,7 +80,6 @@ intro.introduce()
  <a href="mailto:dasuwaprofa.lk@gmail.com">
  <img border="0" alt="Dasun Chathuranga's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
-
 
 <!-----Social Accounts Ends------>
 
