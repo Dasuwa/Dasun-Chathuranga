@@ -1,5 +1,4 @@
-```html
-<!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradient)-->
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); height: 3px;"></div>
 
 <!--h1 without bottom border-->
@@ -16,11 +15,10 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
-- 🔭 I’m currently working on **SQL, Java, PHP, Springboot, Nodejs, MongoDB, MySQL, and more.**
+- 🔭 I’m currently working on **SQL, Java, PHP, Springboot, Node.js, MongoDB, MySQL, and more.**
 
-- 🌱 I’m currently learning **Software Applications Developing.**
+- 🌱 I’m currently learning **Software Applications Development.**
 
 <!-- Insert additional details about your journey or projects here -->
 
@@ -49,7 +47,7 @@
 
 <!--Intro end-->
 
-<!----Github stats start------>
+<!--Github stats start-->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Github Stats 📊</b>
 <p align="center">
 <a href="https://github.com/Dasuwa/">
@@ -63,15 +61,12 @@
     <a href="https://github.com/Dasuwa"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dasuwa&theme=tokyonight&hide_border=true"  width="520" alt="Dasuwa"/></a>
 <a href="https://github.com/Dasuwa"></a>
 </p>
-<!----Github stats End------>
+<!--Github stats End-->
 
-
-<!-----Social Accounts Starts------>
+<!--Social Accounts Starts-->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> Connect with Me ❤️
 
 <p align="center">
-<p align="center">
-
  <a href="https://www.linkedin.com/in/dasuwaprofa">
  <img border="0" alt="Dasun Chathuranga's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 
@@ -81,9 +76,9 @@
 
 <!--Social Accounts Ends-->
 
+<!--Working Tools Starts-->
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); height: 3px;"></div>
 
-<!-----Working Tools Starts------>
 ## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width='30'> Working Tools 🛠️
 
 - **IDEs**: IntelliJ IDEA, Visual Studio Code
@@ -95,5 +90,4 @@
 
 <!-- Insert any other tools or technologies you use here -->
 
-<!-----Working Tools Ends------>
-```
+<!--Working Tools Ends-->
